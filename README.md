@@ -12,9 +12,9 @@ Goal: MVP ready by Q1 2026.
 
 ## Future Phases
 
-Open-Source Release: Share on GitHub for mentorship. Train students in AI/ML via hands-on Git workflows.
-Research Collaboration: Partner with high school teams and clinicians for real-world testing and papers.
-Long-Term Vision: Fuel my Doctorate in AI-driven healthcare.
+### Open-Source Release: Share on GitHub for mentorship. Train students in AI/ML via hands-on Git workflows.
+### Research Collaboration: Partner with high school teams and clinicians for real-world testing and papers.
+### Long-Term Vision: Fuel my Doctorate in AI-driven healthcare.
 
 ## Get Involved
 
