@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Inspired by my family's health challenges, I'm building a web-based AI tool to democratize healthcare insights. This app will help users (patients, students, clinicians) explore data, predict risks, and collaborate—starting simple, scaling to impact.
+Inspired by my family's health challenges, I'm building a web-based AI tool to democratize healthcare insights. This app will help users (patients, clinicians) explore data, predict risks, and collaborate—starting simple, scaling to impact.
 
 ## Current Phase: Data Exploration (Nov 2025)
 
